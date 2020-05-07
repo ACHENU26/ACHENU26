@@ -6,7 +6,7 @@ Stanford University - Machine Learning by Andrew Ng
 
 Notes for quick review, based on the existing review part of this course. The Octave/MATLAB programming content is not covered here.
 
-## Certificate...Is Comming
+## Certificate...Is Coming
 
 [My Course Certificate](.pdf)
 
