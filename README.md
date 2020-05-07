@@ -1,7 +1,3 @@
-# ACHENU26
- Machine Learning by Andrew NG at Stanford University
-
-
 # Cousera Machine Learning
 Stanford University - Machine Learning by Andrew Ng
 
